@@ -1,0 +1,9 @@
+body {
+    background-image: url(./assets/02-03-2021-ILUSTRATIVAS-TAXIS-Y-COLECTIVOS-24-1-scaled-800x400@2x.jpg);
+    background-size: cover;
+}
+h1 {
+    font-size: 5.6rem;
+    color: black;
+    text-align: center;
+}
